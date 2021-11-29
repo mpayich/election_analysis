@@ -31,7 +31,6 @@ There were 369,711 votes cast in the election.
 
 ## Challenge Overview
 Additional data to complete the audit was requested by the election commission:
-
 -The voter turnout for each county
 -The percentage of votes from each county out of the total count
 -The county with the highest turnout
