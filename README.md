@@ -13,7 +13,7 @@ A Colorado Board of Elections employee has been given the following tasks to com
 - Data Source: election_results.csv
 - Software: Python , Visual Code Studio 
 
-## Summary
+## Results
 ###### The analysis of the election show that:
 There were 369,711 votes cast in the election.
 - The candidates were:
@@ -30,5 +30,21 @@ There were 369,711 votes cast in the election.
   - Diana DeGette who received 73.8% of the vote and 272,892 votes
 
 ## Challenge Overview
+Additional data to complete the audit was requested by the election commission:
 
-## Challenge Summary
+-The voter turnout for each county
+-The percentage of votes from each county out of the total count
+-The county with the highest turnout
+
+## Challenge Results
+###### The results of the challenge show that:
+The county with the highest voter turnout is Denver with 82.8% and 306,055 votes.
+
+The county results were:
+- 10.5% of votes came from Jefferson or 38,855 votes
+- 82.8% of votes came from Denver or 306,055 votes
+- 6.7% of votes came from Arapahoe or 24,801 votes
+
+## Election-Audit Summary
+
+There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.
